@@ -1,0 +1,12 @@
+name: pwscup2018result
+title: pwscup2018result
+username:
+account: gghatanotest
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 464096
+bundleId: 1610980
+url: https://gghatanotest.shinyapps.io/pwscup2018result/
+when: 1538135623.91753
+asMultiple: FALSE
+asStatic: FALSE
